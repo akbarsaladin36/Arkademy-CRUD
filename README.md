@@ -2,9 +2,16 @@
 
 Untuk mencari dan mengaktifkan CRUD Arkademy :
 
-Pilih bagian main pada branch menjadi master.
-Download zip.
-Buka terminal lalu arahkan ke target tempat folder berada.
-Ketik node index untuk mengaktifkan CRUD Arkademy.
+1. Pilih bagian main pada branch menjadi master.
+
+2. Download zip.
+
+3. Buka terminal lalu arahkan ke target tempat folder berada.
+
+4. Ketik node index untuk mengaktifkan CRUD Arkademy.
+
+
 Screenshoot website :
+
+
 
